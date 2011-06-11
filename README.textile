@@ -1,0 +1,6 @@
+h1. This is the data for my blog
+
+
+This blog is based on mojombo's blog on github.
+http://mojombo.github.com
+
