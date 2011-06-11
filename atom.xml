@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Peter Hajdu</title>
- <link href="http://peterhajdu.github.com/atom.xml" rel="self"/>
- <link href="http://peterhajdu.github.com/"/>
+ <title>Zach Oglesby | Rather Boring</title>
+ <link href="http://zach.oglesby.co/atom.xml" rel="self"/>
+ <link href="http://zach.oglesby.co/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://peterhajdu.github.com/</id>
+ <id>http://zach.oglesby.co/</id>
  <author>
-   <name>Peter Hajdu</name>
-   <email>peter.ferenc.hajdu@gmail.com</email>
+   <name>Zach Oglesby</name>
+   <email>oglesbyzm@gmail.com</email>
  </author>
 
  {% for post in site.posts %}

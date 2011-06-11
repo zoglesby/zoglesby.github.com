@@ -1,0 +1,13 @@
+---
+layout: post
+title: Jekyll
+---
+
+{{ page.title }}
+----------------
+
+This is just a quick note that I am moving my blog to [Jekyll][1]. I have made this move because it is a plan text blog engine, that allows be manage my website without lots of extra stuff. I don't really need a massive blog engine to drive this site so why use one.
+
+
+
+[1]: https://github.com/mojombo/jekyll/wiki
