@@ -1,3 +1,5 @@
 # Don't save _site stuff
 _site/*
 _site
+# Mac Stuff
+.DS_Store
