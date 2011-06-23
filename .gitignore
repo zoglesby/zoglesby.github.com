@@ -3,3 +3,4 @@ _site/*
 _site
 # Mac Stuff
 .DS_Store
+*~
