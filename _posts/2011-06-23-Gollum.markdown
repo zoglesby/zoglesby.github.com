@@ -3,6 +3,9 @@ layout: post
 title: Gollum Wiki
 ---
 
+{{ page.title }}
+----------------
+
 As I continue in my quest to make my website smaller and easier to manage I setup a wiki using [gollum][1], like jekyll it is another [github][2] project that uses ruby and markdown to create great pages. The wiki is actually not like wikipedia in that I am the only person that can edit it and its done by committing to a git repo, but that is what I love about it, no spam and its easy to manage. 
 
 [1]: https://github.com/github/gollum
