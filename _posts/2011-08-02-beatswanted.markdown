@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wanted: Relase Notes Beats Writers
+title: Wanted Relase Notes Beats Writers
 category: fedora 
 ---
 
