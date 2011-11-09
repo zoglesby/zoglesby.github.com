@@ -1,5 +1,5 @@
 ---
-⇧X1X1layout: post
+layout: post
 title: Google Apps Migration 
 ---
 
