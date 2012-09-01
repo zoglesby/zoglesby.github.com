@@ -1,0 +1,25 @@
+---
+layout: post
+title: Goose Project 
+categories: 
+- goose
+- fedora
+---
+
+{{ page.title }}
+----------------
+Earlier this year I was at [South East Linux Fest][1] in Charlotte NC, and listened to a talk by Clint Savage ([Herlo][2]) about a new Enterprise Linux rebuild project that he was working on. The goal of the project was to make a more open rebuild that operated very similar to [Fedora][3]. I was intrigued, like most people the giant gap between RHEL 6 and CentOS 6 was frustrating to me; the idea of a community run enterprise distro sounded great.
+
+The question was how can I help? The answer was "What are you good at?" Since [GoOSe][goose] is just getting off the ground they need help all over. Naturally I started working on documentation stuff, but because its a small community the team needed someone with PostgreSQL experience so I started helping with that as well.
+
+What I am doing is not the point of this post. The point I am trying to make is that in a large community like Fedora, it can be hard to find a task that interests you, someone is already packaging your favorite stuff, or people are working on infrastructure you know and it can be intimidating to try and jump in.
+
+GoOSe is a new project and there is plenty of stuff for people to work on. It is also a small group of people working on it at them moment which makes it that much easier to get acquainted and feel comfortable working with the group.
+
+If this sounds interesting to you, or you want to hear more jump in #gooseproject on freenode, or visit the [website][goose]. You can also see source code on [github][4]
+
+[1]: http://www.southeastlinuxfest.org/
+[2]: http://herlo.org
+[3]: http://fedoraproject.org
+[4]: http://github.com/gooseproject
+[goose]: http://gooseproject.org
