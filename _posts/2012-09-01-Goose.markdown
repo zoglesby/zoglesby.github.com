@@ -8,7 +8,7 @@ categories:
 
 {{ page.title }}
 ----------------
-Earlier this year I was at [South East Linux Fest][1] in Charlotte NC, and listened to a talk by Clint Savage ([Herlo][2]) about a new Enterprise Linux rebuild project that he was working on. The goal of the project was to make a more open distro operated very similar to [Fedora][3]. I was intrigued, like most people the giant gap between RHEL 6 and CentOS 6 was frustrating to me; the idea of a community run enterprise distro sounded great.
+Earlier this year I was at [South East Linux Fest][1] in Charlotte NC, and listened to a talk by Clint Savage ([Herlo][2]) about a new Enterprise Linux rebuild project that he was working on. The goal of the project was to make a community based enterprise rebuild that  operates very similar to [Fedora][3]. I was intrigued, like most people the giant gap between RHEL 6 and CentOS 6 was frustrating to me; the idea of a community run enterprise distro sounded great.
 
 The question was how can I help? The answer was "What are you good at?" Since [GoOSe][goose] is just getting off the ground they need help all over. Naturally I started working on documentation stuff, but because its a small community the team needed someone with PostgreSQL experience so I started helping with that as well.
 
